@@ -6,7 +6,7 @@ Search algorithms for finding the best path in mazes <br>
 (Randomized Prim's Algorithm, Depth First Traversal, A* Algorithm)
 
 ## Lab2 
-Implementation of a Moview Recommendation System 
+Implementation of a Movie Recommendation System 
 
 ## Lab3
 Machine Learning Algorithms for digits' recognition (MNIST dataset) <br>
